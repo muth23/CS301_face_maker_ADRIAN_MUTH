@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CS301_face_maker</string>
+    <string name="hairButton">Hair</string>
+    <string name="faceButton">Face</string>
+    <string name="eyesButton">Eyes</string>
+    <string name="color_sliders">Color Sliders</string>
+    <string name="random_face">Random Face</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="hairstyle">Hairstyle</string>
+</resources>
